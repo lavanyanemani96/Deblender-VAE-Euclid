@@ -17,6 +17,9 @@ https://github.com/LSSTDESC/DeblenderVAE
 Contributors
 -------------------------
 Lavanya Nemani lavanya.nemani@inaf.it
+
 Fernando Caro fernando.caro@inaf.it
+
 Emiliano Merlin emiliano.merlin@inaf.it
+
 Adriano Fontana adriano.fontana@inaf.it
